@@ -1,8 +1,9 @@
 # Analisis interactivo de senales digitales
 
-Aplicacion desarrollada para el Proyecto 1 de Programacion I. Permite cargar,
-visualizar, procesar y analizar senales digitales almacenadas en archivos
-`.npy` mediante una interfaz interactiva creada con Matplotlib.
+Aplicacion desarrollada conjuntamente por Piero Soto y Vicente Barrientos para
+el Proyecto 1 de Programacion I. Permite cargar, visualizar, procesar y analizar
+senales digitales almacenadas en archivos `.npy` mediante una interfaz
+interactiva creada con Matplotlib.
 
 ## Funcionalidades
 
@@ -54,7 +55,9 @@ numero de la senal que deseas analizar y se abrira la ventana interactiva.
 `-- README.md
 ```
 
-## Autores
+## Autores del proyecto
 
-- Piero Soto
+- [Piero Soto](https://github.com/PieroSotoUCT)
 - [Vicente Barrientos](https://github.com/mimikyu313k)
+
+Ambos autores participaron en el desarrollo completo del proyecto.

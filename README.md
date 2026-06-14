@@ -57,4 +57,4 @@ numero de la senal que deseas analizar y se abrira la ventana interactiva.
 ## Autores
 
 - Piero Soto
-- Vicente Barrientos
+- [Vicente Barrientos](https://github.com/mimikyu313k)
